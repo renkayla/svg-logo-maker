@@ -45,7 +45,8 @@ inquirer.prompt([
       break;
   }
 
+})
+
   // Create the SVG file
   const svg = `
     <svg xmlns="http://www.w3.org
-
