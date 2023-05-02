@@ -3,9 +3,10 @@
 ## Overview
 SVG Logo Maker is a Node.js command-line application that allows users to create custom SVG logos with ease. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
 
-[Untitled_ May 1, 2023 9_51 PM.webm](https://user-images.githubusercontent.com/116777951/235563303-986b5534-8db0-457e-85b5-74b72adf4a91.webm)
+[Untitled_ May 1, 2023 10_46 PM.webm](https://user-images.githubusercontent.com/116777951/235568848-21241d9a-6149-45a8-be21-3941430db83f.webm)
 
-https://drive.google.com/file/d/1HSK99mbKLg9AA2ET1vcP_e3FXGk-21In/view
+
+https://drive.google.com/file/d/1UXQUrJWOrbS2VXGvyOIGao7NpMPGNODv/view
 
 ## Features
 User-friendly command-line interface
